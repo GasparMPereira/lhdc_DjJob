@@ -1,3 +1,4 @@
+--Gaspar Pereira - gaspar#0880--
 local PlayersWorking = {}
 ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
