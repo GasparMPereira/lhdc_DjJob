@@ -11,9 +11,11 @@ You need
 Optional
         1. esx_joblisting (to set the job)
 
-Add to your server.cfg
-        1. ensure lhdc_DjJob
-        2. Import to database the lhdc_dj.sql
+Add to your server.cfg "ensure lhdc_DjJob"
+
+You need to
+        1. Import to database the lhdc_dj.sql
+        2. Add dj_tip.png to your inventory image folder
 
 Located in Bahamas Mamas Club
 You need the map (dont included)
