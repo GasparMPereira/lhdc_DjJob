@@ -1,5 +1,8 @@
 # lhdc_DjJob
 A simple script for Dj Job in your server (ESX)
+<----------------------------------------------->
+<------- By Gaspar Pereira - gaspar#0880 ------->
+<----------------------------------------------->
 
 This scripts allow you to work as Dj in Bahamas Mamas,
 You can get tips when stay in work zone, after you can change the tips by money.
