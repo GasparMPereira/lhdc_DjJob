@@ -1,3 +1,4 @@
+--Gaspar Pereira - gaspar#0880--
 Config = {}
 Config.DrawDistance = 100.0
 Config.Locale = 'en'
