@@ -1,3 +1,4 @@
+--Gaspar Pereira - gaspar#0880--
 local Keys = {
   ["ESC"] = 322, ["BACKSPACE"] = 177, ["E"] = 38, ["ENTER"] = 18, ["SPACE"] = 22, ["DELETE"] = 178
 }
