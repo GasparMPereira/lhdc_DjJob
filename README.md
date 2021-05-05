@@ -20,3 +20,7 @@ You need to
 Located in Bahamas Mamas Club
 You need the map (dont included)
 And need a mp3 player to play music (dont included, i go make a new release for this)
+
+![image](https://user-images.githubusercontent.com/71574610/117128341-32444780-ad95-11eb-9895-3416357bf3f2.png)
+![image](https://user-images.githubusercontent.com/71574610/117128412-45571780-ad95-11eb-9691-b1faf0655d03.png)
+![image](https://user-images.githubusercontent.com/71574610/117128461-56a02400-ad95-11eb-82c0-f427c085a10d.png)
