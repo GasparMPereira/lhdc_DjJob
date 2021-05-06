@@ -1,6 +1,7 @@
 --Gaspar Pereira - gaspar#0880--
 Config = {}
 Config.DrawDistance = 100.0
+Config.UsePeds = true
 Config.Locale = 'en'
 Config.Jobs = {}
 Config.Jobs.clubdj = {
