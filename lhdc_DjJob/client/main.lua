@@ -230,7 +230,7 @@ end)
 CreateThread(function()
 	while true do
 		Wait(0)
-		if GetInteriorFromEntity(PlayerPedId()) == Config.IntID then
+		if GetInteriorFromEntity(PlayerPedId()) == GetInteriorAtCoords(-1390.2, -607.5, 30.3) then
 			DisableControlAction(0, 24, true)
 			DisableControlAction(0, 25, true)
 			DisableControlAction(0, 37, true)
