@@ -46,7 +46,7 @@ Citizen.CreateThread(function()
 		  SetBlipColour(blip_dj, 48)
 		  SetBlipAsShortRange(blip_dj, true)
 		  BeginTextCommandSetBlipName("STRING")
-		  AddTextComponentString("Discoteca")
+		  AddTextComponentString(_U('dj_blip'))
 		  EndTextCommandSetBlipName(blip_dj)
 		end
 	  else
