@@ -11,5 +11,6 @@ Locales['en'] = {
   ['dj_club_locker'] = 'DJ Job Menu',
   ['dj_play_music'] = 'Pressiona ~INPUT_PICKUP~ para trabalhares.',
   ['dj_tip'] = 'DJ Tips',
+  ['dj_blip'] = 'Dj Party',
   ['dj_cash_tips'] = 'Pressiona ~INPUT_PICKUP~ para trocar as tips.',
 }
