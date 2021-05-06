@@ -67,8 +67,6 @@ Config.Jobs.clubdj = {
 		}
 	}
 }
-Config.IntCoords = vec3(-1390.2, -607.5, 30.3)
-Config.IntID = GetInteriorAtCoords(Config.IntCoords)
 Config.InsidePeds = {
     ["Bar1"] = {false, 25, "s_f_y_clubbar_01", vec(-1390.2668457031, -607.52941894531, 30.319568634033, 134.76708984375)},
     ["Bar2"] = {false, 25, "s_m_y_clubbar_01", vec(-1392.4210205078, -603.84124755859, 30.319568634033, 108.83788299561)},
