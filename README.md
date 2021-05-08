@@ -1,5 +1,6 @@
 # lhdc_DjJob
 A simple script for Dj Job in your server (ESX)
+Addon MP3 Player (https://github.com/Gasparpereira2004/lhdc_djplayer)
 	
 	<------- By Gaspar Pereira - gaspar#0880 ------->
 
